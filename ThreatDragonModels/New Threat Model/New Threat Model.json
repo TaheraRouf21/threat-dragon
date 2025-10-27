@@ -1,0 +1,26 @@
+{
+  "version": "2.5.0",
+  "summary": {
+    "title": "New Threat Model",
+    "owner": "TaheraRouf21",
+    "description": "This model represents a basic web application with a browser, web server, application server, and database server. It handles user interactions over HTTPS, processes data internally, and stores sensitive information securely. A trust boundary separates the external browser from the internal components, highlighting potential security risks.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "New STRIDE diagram",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.5.0",
+        "cells": []
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
